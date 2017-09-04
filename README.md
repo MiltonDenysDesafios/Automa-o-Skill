@@ -1,2 +1,1 @@
-# Automa-o-Skill
-Automação agendamento de aula skill
+Esta automação faz um agendamento de aula no site skill.
